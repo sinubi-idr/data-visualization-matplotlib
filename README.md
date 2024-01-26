@@ -12,6 +12,8 @@ Berikut grafik visualisasi yang tersedia saat ini :
   - Box Plot
   - Multiple Box Plot
 * Histogram
+  - Simple Histogram
+  - Histogram by Groups
 * Line Plot
   - Simple Line Plot
   - Multiple Line Plot
